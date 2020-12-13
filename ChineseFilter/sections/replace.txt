@@ -1,3 +1,5 @@
 !
 ! The content replacement rules
 !
+bbs.pcbeta.com$replace=/{padding:9px;width:980px;height:467px;/{padding:9px;width:980px;height:260px;/
+bbs.pcbeta.com$replace=/{padding:9px;width:980px;height:100%;/{padding:9px;width:980px;height:260px;/
